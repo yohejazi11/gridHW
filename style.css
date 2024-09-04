@@ -23,6 +23,7 @@ img{
     grid-area: one;
     align-content: center;
     text-align: center;
+    padding: 20px;
 }
 
 
@@ -30,13 +31,13 @@ img{
     grid-area: two;
     align-content: center;
     text-align: center;
-
+    padding: 20px;
 }
 
 .box-3 {
     grid-area: three;
     background-color: #f7f8fa;
-
+    padding: 20px;
     align-content: center;
     text-align: center;
 
@@ -47,20 +48,21 @@ img{
     background-color: #f05738;
     align-content: center;
     text-align: center;
+    padding: 20px;
 }
 
 .box-5 {
     grid-area: five;
     align-content: center;
     text-align: center;
-
+    padding: 20px;
 }
 
 .box-6 {
     grid-area: six;
     align-content: center;
     text-align: center;
-
+    padding: 20px;
 }
 
 .box-7 {
@@ -68,13 +70,14 @@ img{
     background-color: #8f75bc;
     align-content: center;
     text-align: center;
-
+    padding: 20px;
 }
 
 .box-8 {
     grid-area: eghit;
     align-content: center;
     text-align: center;
+    padding: 20px;
 }
 
 .box-9 {
@@ -82,6 +85,7 @@ img{
     background-color: #93b6b7;
     align-content: center;
     text-align: center;
+    padding: 20px;
 }
 
 .box-10 {
@@ -89,14 +93,14 @@ img{
     background-color: #38d5f4;
     align-content: center;
     text-align: center;
-
+    padding: 20px;
 }
 
 .box-11 {
     grid-area: eleven;
     align-content: center;
     text-align: center;
-
+    padding: 20px;
 }
 
 .box-12 {
@@ -104,6 +108,7 @@ img{
     background-color: #2c2c2c;
     align-content: center;
     text-align: center;
+    padding: 20px;
 }
 
 .box-13{
@@ -111,5 +116,5 @@ img{
     background-color: #2c2c2c;
     align-content: center;
     text-align: center;
-
+    padding: 20px;
 }
