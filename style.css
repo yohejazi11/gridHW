@@ -1,3 +1,8 @@
+img{
+    width: 60%;
+    height: 70%;
+    margin-top: 80px;
+}
 .main-container {
     width: 100vw;
     height: 150vh;
@@ -16,78 +21,95 @@
 
 .box-1 {
     grid-area: one;
-
-}
-.box-1-first-p{
-    grid-area: pOne;
-}
-.box-1-h{
-    grid-area: hOne;
-}
-.box-1-second-p{
-    grid-area: psecond;
+    align-content: center;
+    text-align: center;
 }
 
-.box-1-image{
-    grid-area: image;
 
-}
 .box-2 {
     grid-area: two;
+    align-content: center;
+    text-align: center;
 
 }
 
 .box-3 {
     grid-area: three;
+    background-color: #f7f8fa;
+
+    align-content: center;
+    text-align: center;
 
 }
 
 .box-4 {
     grid-area: four;
-
+    background-color: #f05738;
+    align-content: center;
+    text-align: center;
 }
 
 .box-5 {
     grid-area: five;
+    align-content: center;
+    text-align: center;
 
 }
 
 .box-6 {
     grid-area: six;
+    align-content: center;
+    text-align: center;
 
 }
 
 .box-7 {
     grid-area: seven;
+    background-color: #8f75bc;
+    align-content: center;
+    text-align: center;
 
 }
 
 .box-8 {
     grid-area: eghit;
-
+    align-content: center;
+    text-align: center;
 }
 
 .box-9 {
     grid-area: nine;
-
+    background-color: #93b6b7;
+    align-content: center;
+    text-align: center;
 }
 
 .box-10 {
     grid-area: ten;
     background-color: #38d5f4;
+    align-content: center;
+    text-align: center;
 
 }
 
 .box-11 {
     grid-area: eleven;
+    align-content: center;
+    text-align: center;
 
 }
 
 .box-12 {
     grid-area: twilv;
-
+    background-color: #2c2c2c;
+    align-content: center;
+    text-align: center;
 }
 
 .box-13{
     grid-area:therteen;
+    background-color: #2c2c2c;
+    align-content: center;
+    text-align: center;
+
 }
