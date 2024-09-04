@@ -1,0 +1,93 @@
+.main-container {
+    width: 100vw;
+    height: 150vh;
+    display: grid;
+    grid-template-areas: 
+    "one two three three"
+    "one two three three"
+    "four five six seven"
+    "four five six seven"
+    "eghit nine nine seven"
+    "eghit nine nine seven"
+    "ten eleven twilv therteen";
+
+}
+
+
+.box-1 {
+    grid-area: one;
+
+}
+.box-1-first-p{
+    grid-area: pOne;
+}
+.box-1-h{
+    grid-area: hOne;
+}
+.box-1-second-p{
+    grid-area: psecond;
+}
+
+.box-1-image{
+    grid-area: image;
+
+}
+.box-2 {
+    grid-area: two;
+
+}
+
+.box-3 {
+    grid-area: three;
+
+}
+
+.box-4 {
+    grid-area: four;
+
+}
+
+.box-5 {
+    grid-area: five;
+
+}
+
+.box-6 {
+    grid-area: six;
+
+}
+
+.box-7 {
+    grid-area: seven;
+
+}
+
+.box-8 {
+    grid-area: eghit;
+
+}
+
+.box-9 {
+    grid-area: nine;
+
+}
+
+.box-10 {
+    grid-area: ten;
+    background-color: #38d5f4;
+
+}
+
+.box-11 {
+    grid-area: eleven;
+
+}
+
+.box-12 {
+    grid-area: twilv;
+
+}
+
+.box-13{
+    grid-area:therteen;
+}
